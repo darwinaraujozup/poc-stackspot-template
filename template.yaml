@@ -7,3 +7,8 @@ inputs:
     type: text
     name: project_name
     default: project-name
+  
+  - label: "Should add Jest?"
+    type: bool
+    name: jest
+    default: false
